@@ -71,5 +71,3 @@ Python 3.x Pandas Seaborn Jupyter Notebook (optional, but recommended for intera
 
 # Conclusion
 The Netflix Data Analysis Project has provided a comprehensive overview of Netflix's content landscape. The findings offer valuable insights that can inform strategic decisions and enhance the understanding of Netflix's diverse and dynamic offerings. This project underscores the importance of data-driven analysis in navigating and leveraging the vast array of content available on Netflix.
-
-Netflix_Data_Analysis/README.md at main · ruchikaw06/Netflix_Data_Analysis 
